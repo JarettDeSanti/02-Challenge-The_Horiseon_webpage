@@ -12,6 +12,10 @@ N/A
 
 In order to use this webpage, the user can click on the navigation links at the top of the page to read further information on each topic. 
 
+## Screenshot
+
+![Alt text](<Horiseon Screenshot.png>)
+
 ## Credits
 
 N/A
