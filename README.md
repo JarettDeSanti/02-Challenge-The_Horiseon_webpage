@@ -19,7 +19,7 @@ Deployed live site URL: https://jarettdesanti.github.io/02-Challenge-The_Horiseo
 
 ## Screenshot
 
-![Alt text](<Horiseon screenshot.png>)
+![Alt text](Horiseon_screenshot.png)
 
 ## Credits
 
