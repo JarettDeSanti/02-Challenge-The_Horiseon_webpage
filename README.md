@@ -14,7 +14,7 @@ In order to use this webpage, the user can click on the navigation links at the 
 
 ## Links
 
-Github repository URL: https://github.com/JarettDeSanti/02-Challenge-The_Horiseon_webpage
+Github repository URL: https://github.com/JarettDeSanti/02-Challenge-The_Horiseon_webpage <br>
 Deployed live site URL: https://jarettdesanti.github.io/02-Challenge-The_Horiseon_webpage/
 
 ## Screenshot
