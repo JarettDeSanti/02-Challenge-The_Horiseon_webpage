@@ -12,6 +12,11 @@ N/A
 
 In order to use this webpage, the user can click on the navigation links at the top of the page to read further information on each topic. 
 
+## Links
+
+Github repository URL: https://github.com/JarettDeSanti/02-Challenge-The_Horiseon_webpage
+Deployed live site URL: https://jarettdesanti.github.io/02-Challenge-The_Horiseon_webpage/
+
 ## Screenshot
 
 ![Alt text](<Horiseon Screenshot.png>)
