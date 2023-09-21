@@ -22,8 +22,7 @@ header h1 {
     font-size: 48px;
 }
 
-/*changed .seo to span in order to change color */
-header h1 span {
+header h1 .seo {
     color: #d9dcd6;
 }
 
