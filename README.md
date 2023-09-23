@@ -2,7 +2,7 @@
 
 ## Description
 
-This readme contains information regarding the updated Horiseon webpage found in this repository. The HTML and CSS code for this webpage has been updated through refactoring. The code has also been updated for web accessibility in order for the web page to be optimized for search engines. There are updated semantic HTML elements, alt attributes, and comments found in the code. There is now functionality for all of the links on the webpage and the elements have now been organized to follow proper semantic structure. 
+This readme contains information regarding the updated Horiseon webpage found in this repository. The link to the deployed live site can be found in the "Links" section of this readme. The HTML and CSS code for this webpage has been updated through refactoring. The code has also been updated for web accessibility in order for the web page to be optimized for search engines. There are updated semantic HTML elements, alt attributes, and comments found in the code. There is now functionality for all of the links on the webpage and the elements have now been organized to follow proper semantic structure. 
 
 ## Installation
 
